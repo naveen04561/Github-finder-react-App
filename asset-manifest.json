@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Github-finder-react-App/static/css/main.65d3438f.css",
-    "main.js": "/Github-finder-react-App/static/js/main.d6fbe207.js",
+    "main.js": "/Github-finder-react-App/static/js/main.469faaa4.js",
     "index.html": "/Github-finder-react-App/index.html",
     "main.65d3438f.css.map": "/Github-finder-react-App/static/css/main.65d3438f.css.map",
-    "main.d6fbe207.js.map": "/Github-finder-react-App/static/js/main.d6fbe207.js.map"
+    "main.469faaa4.js.map": "/Github-finder-react-App/static/js/main.469faaa4.js.map"
   },
   "entrypoints": [
     "static/css/main.65d3438f.css",
-    "static/js/main.d6fbe207.js"
+    "static/js/main.469faaa4.js"
   ]
 }
