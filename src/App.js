@@ -20,11 +20,11 @@ function App() {
             <main className="container mx-auto px-3 pb-12">
               <Alert />
               <Routes>
-                <Route path="/" element={<Home />} />
-                <Route path="/about" element={<About />} />
-                <Route path="/user/:login" element={<User />} />
-                <Route path="/notfound" element={<NotFound />} />
-                <Route path="/*" element={<NotFound />} />
+                <Route path="/Github-finder-react-App/" element={<Home />} />
+                <Route path="/Github-finder-react-App/about" element={<About />} />
+                <Route path="/Github-finder-react-App/user/:login" element={<User />} />
+                <Route path="/Github-finder-react-App/notfound" element={<NotFound />} />
+                <Route path="/Github-finder-react-App/*" element={<NotFound />} />
               </Routes>
             </main>
 

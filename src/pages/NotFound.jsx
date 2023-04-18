@@ -12,7 +12,7 @@ function NotFound() {
                     <p className="text-5xl mb-8">
                         404 - Page Not Found!
                     </p>
-                    <Link to='/' className="btn btn-primary btn-lg">
+                    <Link to='/Github-finder-react-App/' className="btn btn-primary btn-lg">
                         <FaHome className="mr-2" />
                         Back to Home.
                     </Link>
